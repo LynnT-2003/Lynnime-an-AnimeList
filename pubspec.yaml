@@ -1,0 +1,24 @@
+name: lynnime_application_2
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^4.12.2
+  firebase_core: ^2.21.0
+  firebase_database: ^10.3.3
+  flutter:
+    sdk: flutter
+  flutter_webview_plugin: ^0.4.0
+  uuid: ^4.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

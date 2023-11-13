@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "564832178576",
+    "firebase_url": "https://anime-list-demo-7a95e-default-rtdb.firebaseio.com",
+    "project_id": "anime-list-demo-7a95e",
+    "storage_bucket": "anime-list-demo-7a95e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564832178576:android:48bc2cd1284844111f2315",
+        "android_client_info": {
+          "package_name": "com.example.lynnime_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwH7K3ODeGt2EDL5sd1AubJQXuMp5sik8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564832178576:android:9b4e4f216aa4d29c1f2315",
+        "android_client_info": {
+          "package_name": "com.example.lynnime_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwH7K3ODeGt2EDL5sd1AubJQXuMp5sik8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
