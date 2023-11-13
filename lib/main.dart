@@ -341,7 +341,7 @@ class AnimeDetailScreen extends StatelessWidget {
                   child: Text(
                     isInWatchList(anime)
                         ? 'Remove from WatchList'
-                        : 'Add to WatchList',
+                        : 'Add to WatchList !',
                   ),
                 ),
               ),
